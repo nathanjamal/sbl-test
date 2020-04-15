@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://nathanjamal.github.io/sbl-test/public/static/css/main.d1b05096.chunk.css",
-    "main.js": "https://nathanjamal.github.io/sbl-test/public/static/js/main.1d985adf.chunk.js",
-    "main.js.map": "https://nathanjamal.github.io/sbl-test/public/static/js/main.1d985adf.chunk.js.map",
-    "runtime-main.js": "https://nathanjamal.github.io/sbl-test/public/static/js/runtime-main.0f541c73.js",
-    "runtime-main.js.map": "https://nathanjamal.github.io/sbl-test/public/static/js/runtime-main.0f541c73.js.map",
-    "static/js/2.210329d8.chunk.js": "https://nathanjamal.github.io/sbl-test/public/static/js/2.210329d8.chunk.js",
-    "static/js/2.210329d8.chunk.js.map": "https://nathanjamal.github.io/sbl-test/public/static/js/2.210329d8.chunk.js.map",
-    "index.html": "https://nathanjamal.github.io/sbl-test/public/index.html",
-    "precache-manifest.2a8e1276dd9c8055d8df4f4ad69b8410.js": "https://nathanjamal.github.io/sbl-test/public/precache-manifest.2a8e1276dd9c8055d8df4f4ad69b8410.js",
-    "service-worker.js": "https://nathanjamal.github.io/sbl-test/public/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "https://nathanjamal.github.io/sbl-test/public/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.210329d8.chunk.js.LICENSE.txt": "https://nathanjamal.github.io/sbl-test/public/static/js/2.210329d8.chunk.js.LICENSE.txt"
+    "main.css": "https://nathanjamal.github.io/sbl-test/demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "https://nathanjamal.github.io/sbl-test/demo/static/js/main.6b51f663.chunk.js",
+    "main.js.map": "https://nathanjamal.github.io/sbl-test/demo/static/js/main.6b51f663.chunk.js.map",
+    "runtime-main.js": "https://nathanjamal.github.io/sbl-test/demo/static/js/runtime-main.c7d9b3e9.js",
+    "runtime-main.js.map": "https://nathanjamal.github.io/sbl-test/demo/static/js/runtime-main.c7d9b3e9.js.map",
+    "static/js/2.b3851b52.chunk.js": "https://nathanjamal.github.io/sbl-test/demo/static/js/2.b3851b52.chunk.js",
+    "static/js/2.b3851b52.chunk.js.map": "https://nathanjamal.github.io/sbl-test/demo/static/js/2.b3851b52.chunk.js.map",
+    "index.html": "https://nathanjamal.github.io/sbl-test/demo/index.html",
+    "precache-manifest.038223b4f65177befe0813ab7931e0c3.js": "https://nathanjamal.github.io/sbl-test/demo/precache-manifest.038223b4f65177befe0813ab7931e0c3.js",
+    "service-worker.js": "https://nathanjamal.github.io/sbl-test/demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "https://nathanjamal.github.io/sbl-test/demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b3851b52.chunk.js.LICENSE.txt": "https://nathanjamal.github.io/sbl-test/demo/static/js/2.b3851b52.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f541c73.js",
-    "static/js/2.210329d8.chunk.js",
+    "static/js/runtime-main.c7d9b3e9.js",
+    "static/js/2.b3851b52.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.1d985adf.chunk.js"
+    "static/js/main.6b51f663.chunk.js"
   ]
 }
