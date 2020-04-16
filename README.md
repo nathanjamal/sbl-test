@@ -6,7 +6,7 @@ I wanted to note 2 things:
 
 The first small point is that I couldn't extract the clock icon from the Sketch cloud doc. But I have left the space for it in the layout.
 
-Secondly, I wanted to say that I realise this is all a bit overblown in terms of tooling, frameworks, project layout etc. to simply fulfill the brief. I could have created the same end product in 1 HTML file with vanila CSS and JavaScript. But I though you'd get a better understanding of the way I work if I set it up like a proper comercial project.
+Secondly, I wanted to say that I realise this is all a bit overblown in terms of tooling, frameworks, project layout etc. to simply fulfill the brief. I could have created the same end product in 1 HTML file with vanila CSS and JavaScript. But I thought you'd get a better understanding of the way I work if I set it up like a proper commercial project.
 
 Thanks,
 
